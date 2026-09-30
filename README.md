@@ -33,10 +33,12 @@ Welcome to my portfolio repository for Data Science Projects. This repository se
 │   ├── Student Performance Predictor.ipynb
 │   ├── student-data.csv
 │   └── README.md
-└── Project 3 - Customer Churn/
-    ├── Customer Churn Prediction.ipynb
-    ├── Telco-Customer-Churn.csv
-    └── README.md
+├── Project 3 - Customer Churn/
+│   ├── Customer Churn Prediction.ipynb
+|   ├── Telco-Customer-Churn.csv
+│   └── README.md
+└── README.md
+
 ```
 
 ---
