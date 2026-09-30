@@ -30,11 +30,11 @@ Welcome to my portfolio repository for Data Science Projects. This repository se
 │   ├── train.csv
 │   └── README.md
 ├── Project 2 - Student Performance/
-│   ├── Data Science Internship Task 2.ipynb
+│   ├── Student Performance Predictor.ipynb
 │   ├── student-data.csv
 │   └── README.md
 └── Project 3 - Customer Churn/
-    ├── Data Science Internship Task 3.ipynb
+    ├── Customer Churn Prediction.ipynb
     ├── Telco-Customer-Churn.csv
     └── README.md
 ```
