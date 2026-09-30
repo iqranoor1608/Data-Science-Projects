@@ -1,4 +1,4 @@
-# 📈 Sales Forecasting System (Regression)
+# 📈 Project 1: Sales Forecasting System (Regression)
 
 This repository contains the end-to-end Machine Learning pipeline developed to predict future sales and revenue trends using historical business data.
 
