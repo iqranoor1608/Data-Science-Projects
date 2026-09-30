@@ -8,9 +8,10 @@ Welcome to my portfolio repository for Data Science Projects. This repository se
 
 | Project Name | Type | Key Algorithms | Target Metric / Result | Explore Directory |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Sales Forecasting System** | Regression | Random Forest Regressor | MAE, RMSE Evaluation | [Go to Project 1 ➡️](Sales Forecasting System) |
-| **2. Student Performance Predictor** | Regression | Random Forest Regressor | **R² Score: ~0.9356** | [Go to Project 2 ➡️](Student Performance Predictor) |
-| **3. Customer Churn Prediction** | Classification | Logistic Regression, Decision Tree, Random Forest | Confusion Matrix, F1-Score | [Go to Project 3 ➡️](Customer Churn Prediction) |
+| **1. Sales Forecasting System** | Regression | Random Forest Regressor | MAE, RMSE Evaluation | [Go to Project 1 ➡️](./Sales%20Forecasting%20System) |
+| **2. Student Performance Predictor** | Regression | Random Forest Regressor | **R² Score: ~0.9356** | [Go to Project 2 ➡️](./Student%20Performance%20Predictor) |
+| **3. Customer Churn Prediction** | Classification | Logistic Regression, Decision Tree, Random Forest | Confusion Matrix, F1-Score | [Go to Project 3 ➡️](./Customer%20Churn%20Prediction) |
+| **4. Loan Approval Prediction System** | Classification | Logistic Regression, Decision Tree, Random Forest | **Accuracy: 0.8618 (Random Forest)** | [Go to Project 4 ➡️](./Project%204%20-%20Loan%20Approval) |
 
 ---
 
@@ -19,6 +20,7 @@ Welcome to my portfolio repository for Data Science Projects. This repository se
 * **Data Manipulation:** `pandas`, `numpy`
 * **Exploratory Data Analysis (EDA):** `matplotlib`, `seaborn`
 * **Machine Learning & Evaluation:** `scikit-learn`
+* **Development Environments:** Jupyter Notebook, Google Colab
 
 ---
 
@@ -35,10 +37,13 @@ Welcome to my portfolio repository for Data Science Projects. This repository se
 │   └── README.md
 ├── Project 3 - Customer Churn/
 │   ├── Customer Churn Prediction.ipynb
-|   ├── Telco-Customer-Churn.csv
+│   ├── Telco-Customer-Churn.csv
+│   └── README.md
+├── Project 4 - Loan Approval/
+│   ├── Loan Approval Prediction System.ipynb
+│   ├── loan-data.csv
 │   └── README.md
 └── README.md
-
 ```
 
 ---
