@@ -7,7 +7,7 @@ The objective is to predict a student's final academic performance (measured by 
 
 ## 📁 Folder Contents
 * `Student Performance Predictor.ipynb` -> Comprehensive notebook containing demographic analysis and model tuning.
-* `student-data.csv` -> Student profile dataset containing behavioral and academic metrics.
+* `student_data.csv` -> Student profile dataset containing behavioral and academic metrics.
 
 ## 🛠️ Methodology & Steps
 1. **Exploratory Data Analysis (EDA):** Leveraged data visualization tools to map correlations between study time, lifestyle choices, and final GPA.
